@@ -6,14 +6,9 @@
     💁 I’m looking to collaborate with other students & educators
     📫 How to reach me ... sentamue25@wpsma.org
 
-<!---
-sentamue25/sentamue25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Code.org GameLab
 [robotFace](https://sentamue25.github.io//robotFace)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
---->
 
 [Captioned Scenes](https://studio.code.org/projects/gamelab/5R_I1LmAhuvBcc1gHe_gPp6kpYE15cZwck5TT7iBEKc)
 >  A creative project of this unit. Using the problem-solving process as a model.
