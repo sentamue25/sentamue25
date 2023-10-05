@@ -7,7 +7,7 @@
     📫 How to reach me ... sentamue25@wpsma.org
 
 ### Code.org GameLab
-[robotFace](https://sentamue25.github.io//robotFace)
+[robotFace](https://sentamue25.github.io/robotFace)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
 [Captioned Scenes](https://studio.code.org/projects/gamelab/5R_I1LmAhuvBcc1gHe_gPp6kpYE15cZwck5TT7iBEKc)
