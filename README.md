@@ -11,7 +11,7 @@ sentamue25/sentamue25 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ### Code.org GameLab
-[RobotFace](https://github.com/sentamue25/robotFace/tree/5e736cb51a8622c06ad64b677f5437367412f6d8)
+[RobotFace] (https://github.com/sentamue25/robotFace/tree/5e736cb51a8622c06ad64b677f5437367412f6d8)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 --->
 
