@@ -14,4 +14,4 @@
 >  A creative project of this unit. Using the problem-solving process as a model.
 
 [Interactive Card](https://studio.code.org/projects/gamelab/Ij4JCrzG5w7XjALoQWzJKTBn9QVPobZA8SEivBOBqrU)
-> In this project I devloped an interactive digital card to share with someone I cared about.
+> In this project I collabrated with another classmate to make an interactve project, where when you click on all the vegtables,  then you press space bar, you will be able to make a salad appear.
