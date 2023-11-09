@@ -17,3 +17,4 @@
 > In this project I collabrated with another student to create multiple sprites with updated properties, conditionals responding to user input, and additonal conditonals that were triggered by a sprite property.
 
 [Side Scroller](https://studio.code.org/projects/gamelab/PRY0-StNae3vhSQobhLq0-Ne-CEkNPjd0PtQUBNczKk)
+> In this project I collabrated with another student to use new types of sprite movement and collision detection to create a type of game with backgrounds that move across the screen from side to side.
