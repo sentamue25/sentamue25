@@ -16,5 +16,5 @@
 [Interactive Card](https://studio.code.org/projects/gamelab/Ij4JCrzG5w7XjALoQWzJKTBn9QVPobZA8SEivBOBqrU)
 > In this project I collabrated with another student to create multiple sprites with updated properties, conditionals responding to user input, and additonal conditonals that were triggered by a sprite property.
 
-[Side Scroller](https://studio.code.org/projects/gamelab/PRY0-StNae3vhSQobhLq0-Ne-CEkNPjd0PtQUBNczKk)
+[Side Scroller](https://studio.code.org/projects/gamelab/dsGjFQRS4UDzsUmT36QHVgqecHx6_Xs85YLt8Els9ig)
 > In this project I collabrated with another student to use new types of sprite movement and collision detection to create a type of game with backgrounds that move across the screen from side to side.
