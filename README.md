@@ -22,8 +22,10 @@
 [Design a Game](https://studio.code.org/projects/gamelab/fPPlOTh8rrGWo9pZBX1Oh1cz3I4pP5dRaObC3ZV1iio)
 >In  my project, a bear is trying to reach the candy, by moving towards the candy and the bear has to jump to reach the candy. But before the bear can successfully get the candy, the bear has to get over the obstacles.
 
-[Flyer Game] (https://studio.code.org/projects/gamelab/ETIE3chFmvSOTBzbhBVsOr28cPBgtrS5rsBan0Y-2zA)
+[Flyer Game](https://studio.code.org/projects/gamelab/ETIE3chFmvSOTBzbhBVsOr28cPBgtrS5rsBan0Y-2zA)
+
 <In this project I used differant collisions to make a simple flyer game.
 
-[Platform Jumper] (https://studio.code.org/projects/gamelab/MIFCgQbfiR5FXLdCMWfTlge9gUf_LBDaRfRWj4qMND4)
+[Platform Jumper](https://studio.code.org/projects/gamelab/MIFCgQbfiR5FXLdCMWfTlge9gUf_LBDaRfRWj4qMND4)
+
 < In this project I used the prolem solving process to make a platfrom jumper game.
