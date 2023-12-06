@@ -18,4 +18,5 @@
 
 [Side Scroller](https://studio.code.org/projects/gamelab/dsGjFQRS4UDzsUmT36QHVgqecHx6_Xs85YLt8Els9ig)
 > In this project I collabrated with another student to use new types of sprite movement and collision detection to create a type of game with backgrounds that move across the screen from side to side.
-[Design a Game] (https://studio.code.org/projects/gamelab/fPPlOTh8rrGWo9pZBX1Oh1cz3I4pP5dRaObC3ZV1iio)
+
+[Design a Game](https://studio.code.org/projects/gamelab/fPPlOTh8rrGWo9pZBX1Oh1cz3I4pP5dRaObC3ZV1iio)
