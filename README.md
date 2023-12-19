@@ -30,3 +30,6 @@
 
 [My Piano](https://gallery.appinventor.mit.edu/?galleryid=362b9905-ddfb-4971-9c5a-f58d77c4ce09)
 > In this project everytime i played a piano note the sound of each piano note would play.
+
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=ba1f9a02-d940-491f-979d-b893b0c1715c)
+> In this project I pick which instrument i want to play then music from the instrument starts playing, but when I press stop the music will no longer player from the instrument.
