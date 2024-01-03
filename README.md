@@ -36,3 +36,5 @@
 
 [ Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=c6a36b49-c7b7-4f42-9b73-bf3906fcff2b)
 > A project where I have three images that show a Cat, a Dog, and a Bear and you can hear the way they sound.
+[Find The Gold](https://gallery.appinventor.mit.edu/?galleryid=53e3c2fb-211f-4ad7-b1fe-52887f1120f9)
+> In this projectI worked with a partner to use the accelermoter to track the movements of the Ipad to control the ball.
