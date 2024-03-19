@@ -46,5 +46,5 @@
 [Creative Task Unit 1](https://academy.cs.cmu.edu/exercise/4132/)
 > I  used the coding elements I have learned thus far in Unit 1 to create a project of my own design.
 
-[Creative Task Unit 2][(https://academy.cs.cmu.edu/exercise/4132/)](https://academy.cs.cmu.edu/exercise/4190/)
+[Creative Task Unit 2](https://academy.cs.cmu.edu/exercise/4190/)
 > I  used the coding elements I have learned thus far in Unit 2 to create a project with a deisgn.
